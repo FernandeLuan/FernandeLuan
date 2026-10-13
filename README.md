@@ -1,33 +1,41 @@
 # Luan Fernande
-### Product Owner · AI-Assisted Development · Software Architecture
 
-I connect product thinking with hands-on software building. I’m exploring how AI-assisted development can accelerate delivery while keeping architecture, testing, and production safety in view.
+### Product thinking · AI-assisted software development · Practical engineering
 
----
+I turn real-world problems into usable software. My work combines product discovery, workflow design, and hands-on development with AI—while keeping maintainability, testing, and safe delivery part of the process.
 
 ## Featured project
 
-### Casa do Oleiro
-A web application for volunteer management, planning, selection, and occupancy.
+### [Casa do Oleiro](https://github.com/FernandeLuan/CasaDoOleiro)
 
-- **Product:** operational workflows designed around a real-world need
-- **Stack:** JavaScript · Firebase · Firestore
-- **Quality:** GitHub Actions · Playwright · automated checks
-- **Engineering focus:** query efficiency, maintainability, and controlled releases
+A web platform built to organize the volunteer journey for a real community organization, from application review to activity planning and stay coordination.
 
-[Explore the project →](https://github.com/FernandeLuan/CasaDoOleiro)
+- **Product:** connected workflows for volunteers and coordinators
+- **Engineering:** JavaScript, Firebase Authentication, and Cloud Firestore
+- **Quality:** automated checks, Playwright browser tests, and Firebase Emulator-based testing
+- **Focus:** access control, query efficiency, maintainable architecture, and controlled releases
 
-## What I’m interested in
+[Explore the repository and technical documentation →](https://github.com/FernandeLuan/CasaDoOleiro)
+
+## How I approach building software
+
+- **Start with the problem:** understand users and operational constraints before adding features.
+- **Use AI deliberately:** accelerate implementation without treating generated code as automatically correct.
+- **Validate the result:** use tests, code review, and reproducible checks to reduce regressions.
+- **Think about production:** consider security, data privacy, performance, and deployment risks as part of development.
+
+## Areas I’m developing
 
 - Product discovery and translating user needs into software
-- AI-assisted development with engineering guardrails
-- Web applications and automation
-- Testing, maintainability, and safe delivery
+- AI-assisted development and architecture review
+- Web applications and workflow automation
+- Testing, maintainability, and secure delivery practices
 
-## Find me
+## Explore my work
 
-[GitHub](https://github.com/FernandeLuan)
+- [Casa do Oleiro — source code and project documentation](https://github.com/FernandeLuan/CasaDoOleiro)
+- [All public repositories](https://github.com/FernandeLuan?tab=repositories)
 
 ---
 
-*Building software that solves real problems—and can be safely improved over time.*
+*Building useful software, learning continuously, and improving the engineering behind each release.*
